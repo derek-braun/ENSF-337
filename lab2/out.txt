@@ -1,0 +1,3 @@
+Please enter the travel distance in km: 
+Now enter the vehicles, average speed (km/h): 
+You have traveled 5.44 (km) with a speed of 76.50 in 0.00 hour(s) and 4.27 minutes(s)
