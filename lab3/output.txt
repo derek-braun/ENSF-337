@@ -1,0 +1,8 @@
+
+ "Draw nine men $$ inward." is a palindrome.
+
+ "Eva, Can I Stab *Bats In A Cave?" is a palindrome.
+
+ "A Santa Lived As a Devil At NASA." is a palindrome.
+
+ "Palindrome &&?" is not a palindrome.
